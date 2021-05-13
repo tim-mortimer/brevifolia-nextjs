@@ -1,4 +1,12 @@
 ---
 label: Landing Page
 hide_body: false
-fields: []
+fields:
+- name: page_blocks
+  type: blocks
+  template_types:
+  - landing-page
+  config:
+    min: 1
+    max: 
+  label: Page Blocks
