@@ -7,6 +7,7 @@ fields:
   label: Blocks
   template_types:
   - text-image
+  - 2-column-text
   config:
     min: 1
     max: 
