@@ -5,7 +5,14 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: heading
+  label: Team
+- type: heading
   label: Collections
+- type: directory
+  path: pages
+  label: Pages
+  create: all
+  match: "**/*"
 - type: directory
   path: posts
   label: Posts
