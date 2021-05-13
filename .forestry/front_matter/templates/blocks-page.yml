@@ -12,4 +12,5 @@ fields:
     min: 1
     max: 
 pages:
+- posts/joe-test.md
 - posts/the palace.md
