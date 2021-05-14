@@ -7,11 +7,6 @@ sections:
 - type: heading
   label: Collections
 - type: directory
-  path: pages
-  label: Pages
-  create: all
-  match: "**/*"
-- type: directory
   path: posts
   label: Posts
   create: all
